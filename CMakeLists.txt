@@ -5,3 +5,4 @@ project(test)
 
 # add the executable
 add_executable(main main.cpp b.cpp)
+#add_executable(test test.cpp )
